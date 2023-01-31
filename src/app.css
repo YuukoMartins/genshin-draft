@@ -1,0 +1,14 @@
+@import 'material-symbols/outlined.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 48;
+}
+
+::selection {
+  background-color: hsl(var(--p));
+  color: hsl(var(--pc));
+}

@@ -84,5 +84,9 @@
     <div class="divider divider-horizontal m-0" />
 
     <span class="select-none font-bold uppercase text-secondary">Genshin&nbsp;Draft</span>
+
+    <label for="info" class="btn-ghost btn-square btn">
+      <span class="material-symbols-outlined">info</span>
+    </label>
   </div>
 </div>

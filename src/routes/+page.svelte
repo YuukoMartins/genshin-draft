@@ -103,4 +103,11 @@
   </div>
 </Modal>
 
+<Modal id="info">
+  <span class="select-none">
+    This website is not affiliated with miHoYo. All assets used are property of their respective
+    owners.
+  </span>
+</Modal>
+
 <Preferences />

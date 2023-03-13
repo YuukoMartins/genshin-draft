@@ -12,7 +12,7 @@ specifiers:
   eslint: ^8.34.0
   eslint-config-prettier: ^8.6.0
   eslint-plugin-svelte3: ^4.0.0
-  genshin-db: ^4.3.5
+  genshin-db: ^4.3.6
   material-symbols: ^0.4.4
   postcss: ^8.4.21
   postcss-load-config: ^4.0.1
@@ -33,7 +33,7 @@ specifiers:
 
 dependencies:
   easytimer.js: 4.5.4
-  genshin-db: 4.3.5
+  genshin-db: 4.3.6
   material-symbols: 0.4.4
   string-to-color: 2.2.2
   svelte-local-storage-store: 0.3.2_svelte@3.55.1
@@ -1210,8 +1210,8 @@ packages:
     resolution: {integrity: sha512-MOxCT0qLTwLqmEwc7UtU045RKef7mc8Qz8eR4r2bLNEq9dy/c3ZKMEFp6IEst69otkQdFZ4FfgH2dmZD+ddX1g==}
     dev: false
 
-  /genshin-db/4.3.5:
-    resolution: {integrity: sha512-EjabM/fxFs+TQ2exsDfRmnMab4dLYUJzSoRZsJ2Jee1ajVUnyNAbpDvPAIuQwIXZXEXmSB6U0xLnKMZlsyX05g==}
+  /genshin-db/4.3.6:
+    resolution: {integrity: sha512-Zym0yhIlSkOdhIfl4CLe+HiyPehMsium9bWfZr2gq7sOVL9KAJrR0MtsrrxAj1PFfnzS6S44YOPyf/eeQKoPhA==}
     dependencies:
       fuzzysort: 1.9.0
       pako: 2.1.0
